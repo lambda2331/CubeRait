@@ -1,0 +1,65 @@
+#header{
+    text-align: center;
+    padding: 20px;
+}
+#header input{
+    padding: 3px;
+}
+button{
+  color: black;
+  font-weight: 700;
+  padding: .5em 2em;
+  border: 2px solid darkgray;
+  border-radius: 8px;
+  transition: 0.2s;
+}
+button:hover{ 
+    background-color: darkgray; 
+}
+button:active{
+    background-color: white;
+}
+#userInf{
+    text-align: center;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    display: none;
+}
+#userInf p{
+    color: grey;
+    font-weight: 700;
+}
+#logo{
+    margin: 15px;
+    text-align: center;
+}
+#logo img{
+    width: 50%;
+    height: 10%;
+}
+#cube{
+    margin: 0 auto;
+    text-align: center;
+}
+#settingsUser{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    display: none;
+}
+#settingsUser input{
+    padding: 5px;
+    text-align: center;
+}
+#regUser{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px;
+    display: none;
+}
+#regUser input{
+    padding: 5px;
+}

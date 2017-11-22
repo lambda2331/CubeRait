@@ -1,0 +1,231 @@
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\csc.exe
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\csc.exe.config
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\csc.rsp
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\csi.exe
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\csi.rsp
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\System.AppContext.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\System.Collections.Immutable.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\System.IO.FileSystem.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\vbc.exe
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\vbc.exe.config
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\vbc.rsp
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\VBCSCompiler.exe
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\roslyn\VBCSCompiler.exe.config
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Cube.dll.config
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Cube.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Cube.pdb
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Newtonsoft.Json.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Net.Http.Formatting.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Web.Http.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Web.Http.WebHost.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Newtonsoft.Json.xml
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Net.Http.Formatting.xml
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Web.Http.xml
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Web.Http.WebHost.xml
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\ru\System.Web.Http.resources.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.csprojResolveAssemblyReference.cache
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.dll
+c:\users\artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.pdb
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\EntityFramework.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\EntityFramework.SqlServer.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\EntityFramework.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\EntityFramework.SqlServer.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Security.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Owin.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Web.Http.Owin.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Security.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Web.Http.Owin.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Cors.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.Web.Cors.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Cors.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.ChekedUserMigration.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.csproj.GenerateResource.Cache
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.UserRoleMigration.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.UserCountryMigration.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.UserAddMigration.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.csproj.CoreCompileInputs.cache
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.UserUpdateMigration.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.UserMigration.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.UserMigration1.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.UserMigration2.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.UserMigrationChange.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.CLearTable.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.ReverUserTableMigr.resources
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Artsem\documents\visual studio 2017\Projects\Cube\Cube\obj\Debug\Cube.Migrations.ReverUserTableMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.csprojResolveAssemblyReference.cache
+D:\Cube\Cube\obj\Debug\Cube.Migrations.ChekedUserMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserRoleMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserCountryMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserAddMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserUpdateMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserMigration1.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserMigration2.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserMigrationChange.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.CLearTable.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.ReverUserTableMigr.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.ReverUserTableMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.csproj.GenerateResource.Cache
+D:\Cube\Cube\obj\Debug\Cube.csproj.CoreCompileInputs.cache
+D:\Cube\Cube\obj\Debug\Cube.dll
+D:\Cube\Cube\obj\Debug\Cube.pdb
+D:\Cube\Cube\bin\roslyn\csc.exe
+D:\Cube\Cube\bin\roslyn\csc.exe.config
+D:\Cube\Cube\bin\roslyn\csc.rsp
+D:\Cube\Cube\bin\roslyn\csi.exe
+D:\Cube\Cube\bin\roslyn\csi.rsp
+D:\Cube\Cube\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cube\Cube\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cube\Cube\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cube\Cube\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cube\Cube\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cube\Cube\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cube\Cube\bin\roslyn\System.AppContext.dll
+D:\Cube\Cube\bin\roslyn\System.Collections.Immutable.dll
+D:\Cube\Cube\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cube\Cube\bin\roslyn\System.IO.FileSystem.dll
+D:\Cube\Cube\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cube\Cube\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cube\Cube\bin\roslyn\vbc.exe
+D:\Cube\Cube\bin\roslyn\vbc.exe.config
+D:\Cube\Cube\bin\roslyn\vbc.rsp
+D:\Cube\Cube\bin\roslyn\VBCSCompiler.exe
+D:\Cube\Cube\bin\roslyn\VBCSCompiler.exe.config
+D:\Cube\Cube\bin\Cube.dll.config
+D:\Cube\Cube\bin\Cube.dll
+D:\Cube\Cube\bin\Cube.pdb
+D:\Cube\Cube\bin\EntityFramework.dll
+D:\Cube\Cube\bin\EntityFramework.SqlServer.dll
+D:\Cube\Cube\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cube\Cube\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cube\Cube\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Cube\Cube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cube\Cube\bin\Microsoft.Owin.Cors.dll
+D:\Cube\Cube\bin\Microsoft.Owin.dll
+D:\Cube\Cube\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cube\Cube\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Cube\Cube\bin\Microsoft.Owin.Security.dll
+D:\Cube\Cube\bin\Microsoft.Owin.Security.Jwt.dll
+D:\Cube\Cube\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Cube\Cube\bin\Newtonsoft.Json.dll
+D:\Cube\Cube\bin\Owin.dll
+D:\Cube\Cube\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Cube\Cube\bin\System.Net.Http.Formatting.dll
+D:\Cube\Cube\bin\System.Web.Cors.dll
+D:\Cube\Cube\bin\System.Web.Http.dll
+D:\Cube\Cube\bin\System.Web.Http.Owin.dll
+D:\Cube\Cube\bin\System.Web.Http.WebHost.dll
+D:\Cube\Cube\bin\EntityFramework.xml
+D:\Cube\Cube\bin\EntityFramework.SqlServer.xml
+D:\Cube\Cube\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cube\Cube\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cube\Cube\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Cube\Cube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cube\Cube\bin\Microsoft.Owin.xml
+D:\Cube\Cube\bin\Microsoft.Owin.Cors.xml
+D:\Cube\Cube\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cube\Cube\bin\Microsoft.Owin.Security.xml
+D:\Cube\Cube\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Cube\Cube\bin\Microsoft.Owin.Security.Jwt.xml
+D:\Cube\Cube\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Cube\Cube\bin\Newtonsoft.Json.xml
+D:\Cube\Cube\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Cube\Cube\bin\System.Web.Http.Owin.xml
+D:\Cube\Cube\bin\System.Net.Http.Formatting.xml
+D:\Cube\Cube\bin\System.Web.Http.xml
+D:\Cube\Cube\bin\System.Web.Http.WebHost.xml
+D:\Cube\Cube\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Cube\Cube\bin\ru\System.Web.Http.resources.dll
+D:\Cube\Cube\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserContextMigr.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserModelMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserContextMigration.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.Migr1.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserRaitnigMig.resources
+D:\Cube\Cube\obj\Debug\Cube.Migrations.UserMigration3.resources
+D:\Cube\Cube\bin\AutoMapper.dll
+D:\Cube\Cube\bin\AutoMapper.xml
+D:\Cube\Cube\bin\Castle.Core.dll
+D:\Cube\Cube\bin\Castle.Windsor.dll
+D:\Cube\Cube\bin\Castle.Windsor.Web.Mvc.dll
+D:\Cube\Cube\bin\Microsoft.Web.Infrastructure.dll
+D:\Cube\Cube\bin\System.Web.Helpers.dll
+D:\Cube\Cube\bin\System.Web.Mvc.dll
+D:\Cube\Cube\bin\System.Web.Razor.dll
+D:\Cube\Cube\bin\System.Web.WebPages.Deployment.dll
+D:\Cube\Cube\bin\System.Web.WebPages.dll
+D:\Cube\Cube\bin\System.Web.WebPages.Razor.dll
+D:\Cube\Cube\bin\WebActivatorEx.dll
+D:\Cube\Cube\bin\Castle.Windsor.xml
+D:\Cube\Cube\bin\System.Web.Helpers.xml
+D:\Cube\Cube\bin\System.Web.Mvc.xml
+D:\Cube\Cube\bin\System.Web.Razor.xml
+D:\Cube\Cube\bin\System.Web.WebPages.xml
+D:\Cube\Cube\bin\System.Web.WebPages.Deployment.xml
+D:\Cube\Cube\bin\System.Web.WebPages.Razor.xml
+D:\Cube\Cube\bin\roslyn\csi.exe.config
+D:\Cube\Cube\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Cube\Cube\bin\roslyn\System.Console.dll
+D:\Cube\Cube\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Cube\Cube\bin\roslyn\System.Diagnostics.Process.dll
+D:\Cube\Cube\bin\roslyn\System.IO.Compression.dll
+D:\Cube\Cube\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Cube\Cube\bin\roslyn\System.IO.Pipes.dll
+D:\Cube\Cube\bin\roslyn\System.Security.AccessControl.dll
+D:\Cube\Cube\bin\roslyn\System.Security.Claims.dll
+D:\Cube\Cube\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Cube\Cube\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Cube\Cube\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Cube\Cube\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Cube\Cube\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Cube\Cube\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cube\Cube\bin\roslyn\System.Threading.Thread.dll
+D:\Cube\Cube\bin\roslyn\System.ValueTuple.dll
+D:\Cube\Cube\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Cube\Cube\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Cube\Cube\bin\roslyn\System.Xml.XPath.dll
+D:\Cube\Cube\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Cube\Cube\bin\Microsoft.IdentityModel.Logging.dll
+D:\Cube\Cube\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Cube\Cube\bin\Castle.Core.xml
+D:\Cube\Cube\bin\Microsoft.IdentityModel.Logging.xml
+D:\Cube\Cube\bin\Microsoft.IdentityModel.Tokens.xml
